@@ -27,3 +27,4 @@ Y Combinator (YC) is a startup fund and program. Since 2005, YC has invested in 
     <a href="https://www.linkedin.com/in/alapanb/">
         <img src="https://img.shields.io/badge/For_Professional_Updates-15k?style=for-the-badge&color=0a66c2&logo=linkedin" alt="LinkedIn"/>
     </a>
+</p>
