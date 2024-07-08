@@ -1,4 +1,8 @@
 # List-of-Top-Unicorn-Startups-India 🚀
+
+</p>
+If you are searching for jobs and looking for a list of companies that can provide you a good salary then this is an exhaustive list of Top Unicorn Startups in India.
+
 <p align="center">
 	<a href="https://github.com/Developer-RONNIE" alt="Github" title="github">
        <img src="https://img.shields.io/badge/Follow_Me_For_More_Useful_Repos-15k?style=for-the-badge&color=EF2D5E&logo=github&logoColor=fff"/>
@@ -9,9 +13,6 @@
     <a href="https://www.linkedin.com/in/alapanb/">
         <img src="https://img.shields.io/badge/For_Professional_Updates-15k?style=for-the-badge&color=0a66c2&logo=linkedin" alt="LinkedIn"/>
     </a>
-</p>
-If you are searching for jobs and looking for a list of companies that can provide you a good salary then this is an exhaustive list of Top Unicorn Startups in India.
-
 
 ## Linkedin Top Startups India 📈
 
