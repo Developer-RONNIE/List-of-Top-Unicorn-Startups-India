@@ -1,6 +1,4 @@
 # List-of-Top-Unicorn-Startups-India 🚀
-
-#
 <p align="center">
 	<a href="https://github.com/Developer-RONNIE" alt="Github" title="github">
        <img src="https://img.shields.io/badge/Follow_Me_For_More_Useful_Repos-15k?style=for-the-badge&color=EF2D5E&logo=github&logoColor=fff"/>
