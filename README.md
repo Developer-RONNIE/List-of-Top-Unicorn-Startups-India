@@ -24,7 +24,7 @@ Linkedin publishes a list of [Top Startups in India](https://www.linkedin.com/pu
 Y Combinator (YC) is a startup fund and program. Since 2005, YC has invested in nearly 3,000 companies including Airbnb, DoorDash, Stripe, Instacart, Dropbox, and Coinbase. The combined valuation of YC companies is over $300B. YC has programs and resources that support founders throughout the life of their company.
 
 - So if you are looking for jobs you can also check [Jobs at YC startups](https://www.ycombinator.com/jobs)
-- Here's a list of all [YC funded companies](https://www.ycombinator.com/companies)
+- Here's a list of all [YC funded companies](https://www.ycombinator.com/companies) for better startup jobs oppurtunities 
 
 ## List of Top 110 Unicorn Startups in India
 
